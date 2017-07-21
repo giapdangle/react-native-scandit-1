@@ -4931,9 +4931,8 @@ react-modal@^1.7.6:
     prop-types "^15.5.7"
     react-dom-factories "^1.0.0"
 
-react-native-scandit@^1.1.5:
+"react-native-scandit@file:./react-native-scandit/":
   version "1.1.5"
-  resolved "https://registry.yarnpkg.com/react-native-scandit/-/react-native-scandit-1.1.5.tgz#412f00b9405194bad3a0bd166a9c3a45229a1bbd"
 
 react-native@0.46.4:
   version "0.46.4"

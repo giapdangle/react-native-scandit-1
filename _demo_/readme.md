@@ -1,0 +1,2 @@
+#### For ease of package development, react-native-scandit is a symlink to the base folder
+If you wish to install react-native-scandit from the public npm repository, make sure to run `react-native install react-native-scandit` inside this `_demo_` folder to update the `package.json`. After that you can safely delete the `_demo_/react-native-scandit` folder.

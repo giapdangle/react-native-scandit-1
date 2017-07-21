@@ -1,0 +1,1 @@
+/Users/worker/development/react-native-scandit/SGScanditTypes.js
